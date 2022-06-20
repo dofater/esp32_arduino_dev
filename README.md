@@ -15,7 +15,7 @@ Dev (ARDUINO IDE):
 1. Download nad install: ARDUINO IDE 1.8.19 [Windows-win7-and-newer] https://www.arduino.cc/en/software
 2. Run ARDUINO IDE
 3. [File] -> [Preferences] -> Additional Boards Manager URLs: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-4. [Tools] -> [Board] -> [Boards meneger...] -> search "esp32" and install the "esp32" verdion 2.0.3
+4. [Tools] -> [Board] -> [Boards meneger...] -> search "esp32" and install the "esp32" version 2.0.3
 5. [Tools] -> [Board] -> [ESP32 Arduino] -> [ESP32 DEV Module]
 6. [Tools] -> [Port] -> [YOUR_BOARD_PORT]
 7. Compile by button:[V] Verify
