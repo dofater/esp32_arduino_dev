@@ -3,6 +3,7 @@
 Reference:
 1. Arduino core for the ESP32, ESP32-S2, ESP32-S3 and ESP32-C3 -> https://github.com/espressif/arduino-esp32
 2. Arduino-ESP32 Online Documentation -> https://docs.espressif.com/projects/arduino-esp32/en/latest/
+3. ESP32 Filesystem Uploader in Arduino IDE -> https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
 
 Driver:
 1. Download CH340 driver: CH341SER
@@ -32,6 +33,3 @@ Dev (VSCode) :
 8. Select <Select_Board_Serial> = [YOUR_BOARD_PORT] (at right-down side)
 9. Compile by button:[V] Arduino: Verify (at right-up side)
 10. Upload by button: [|] Arduino: Upload (at right-up side)
-
-[ESP32 Filesystem Uploader in Arduino IDE]
-ref: https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
