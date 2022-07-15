@@ -32,3 +32,6 @@ Dev (VSCode) :
 8. Select <Select_Board_Serial> = [YOUR_BOARD_PORT] (at right-down side)
 9. Compile by button:[V] Arduino: Verify (at right-up side)
 10. Upload by button: [|] Arduino: Upload (at right-up side)
+
+[ESP32 Filesystem Uploader in Arduino IDE]
+ref: https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
